@@ -1,0 +1,67 @@
+.f-mt-20{
+    margin-top: 20px;
+}
+
+footer{
+    font-family: 'Montserrat', sans-serif;
+}
+
+footer h3{
+    color: #000 !important;
+    font-size: 17px !important;
+}
+
+footer a{
+    color: #000;
+}
+
+footer a:hover{
+    color: #2a2559;
+}
+
+footer p{
+    color: #000;
+    margin-bottom: 0px;
+}
+
+footer ul{
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+
+footer li{
+    list-style: none;
+    font-size: 15px;
+}
+
+footer input{
+    border: none;
+    width: 100%;
+    padding: 5px 10px;
+    margin-top: 8px;
+}
+
+#top{
+    position: relative;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+#top .social a:nth-child(3){
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+#bottom{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #000;;
+}
+#bottom p{
+    color:#fff;
+}
+
+.tnp-subscription label{
+    color:white !important;
+}
